@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://guozengjie.github.io/"/>
   <updated>2019-11-08T00:54:29.666Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://guozengjie.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>我的第一篇博客</title>
-    <link href="http://yoursite.com/2019/11/08/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2019/11/08/我的第一篇博客/</id>
+    <link href="https://guozengjie.github.io/2019/11/08/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://guozengjie.github.io/2019/11/08/我的第一篇博客/</id>
     <published>2019-11-08T00:34:28.000Z</published>
     <updated>2019-11-08T00:54:29.666Z</updated>
     
@@ -36,14 +36,14 @@
     
     
     
-      <category term="Android" scheme="http://yoursite.com/tags/Android/"/>
+      <category term="Android" scheme="https://guozengjie.github.io/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/11/08/hello-world/"/>
-    <id>http://yoursite.com/2019/11/08/hello-world/</id>
+    <link href="https://guozengjie.github.io/2019/11/08/hello-world/"/>
+    <id>https://guozengjie.github.io/2019/11/08/hello-world/</id>
     <published>2019-11-07T22:13:16.105Z</published>
     <updated>2019-11-07T22:13:16.105Z</updated>
     
